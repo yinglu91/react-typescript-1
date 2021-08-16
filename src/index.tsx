@@ -22,7 +22,7 @@ reportWebVitals();
 
 // create a reactjs project with typescript:
 // $ mkdir react-ts 
-// $ ce react-ts
+// $ cd react-ts
 // $ npx create-react-app . --template typescript
 // $ code .
 // $ yarn start
